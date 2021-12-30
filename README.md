@@ -1,6 +1,6 @@
-# Web simulation of UbuntuOS
+### Ubuntu on the web!
 
-This is a personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS.
+This is a website to "run" Ubuntu on the web
 If you want to edit this. Clone this project and edit the files in `/src/components`.
 
 To run this on localhost
