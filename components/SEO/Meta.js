@@ -20,12 +20,12 @@ export default function Meta() {
             <meta name="theme-color" content="#E95420" />
 
             /* Search Engine */
-            <meta name="image" content="images/logos/fevicon.png" />
+            <meta name="image" content="images/logos/ubuntu-4-logo.png" />
             /* Schema.org for Google */
             <meta itemProp="name" content="Ubuntu on the web" />
             <meta itemProp="description"
                 content="Ubuntu on the web" />
-            <meta itemProp="image" content="images/logos/fevicon.png" />
+            <meta itemProp="image" content="images/logos/ubuntu-4-logo.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Ubuntu on the web" />
@@ -33,19 +33,19 @@ export default function Meta() {
                 content="Ubuntu on the web" />
             <meta name="twitter:site" content="JustinL" />
             <meta name="twitter:creator" content="JustinL" />
-            <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
+            <meta name="twitter:image:src" content="images/logos/ubuntu-4-logo.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
             <meta name="og:title" content="Ubuntu on the web" />
             <meta name="og:description"
                 content="Ubuntu on the web" />
-            <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://vivek9patel.github.io/" />
+            <meta name="og:image" content="images/logos/ubuntu-4-logo.png" />
+            <meta name="og:url" content="https://github.com/hockerdiscord" />
             <meta name="og:site_name" content="JustinL" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="images/logos/fevicon.svg" />
-            <link rel="apple-touch-icon" href="images/logos/logo.png" />
+            <link rel="icon" href="images/logos/ubuntu-4-logo.png" />
+            <link rel="apple-touch-icon" href="images/logos/ubuntu-4-logo.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
         </Head>
