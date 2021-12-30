@@ -8,8 +8,6 @@ type `npm start` and when u are done coding type `npm run build` to build your a
 
 _NOTE: if you have yarn just replace `npm start` and `npm run build` with `yarn start` and `yarn build`._
 
-<a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
-
 ### To make the contact form work
 
 - Create a account in [emailjs](https://www.emailjs.com/) create also new Outlook or Gmail account to be able
@@ -57,3 +55,11 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Thanks to
+- Vivek Patel (code)
+- JustinL (custom code)
+- [Windows XP Web](https://winxp.vercel.app/) by [sh1zuku](https://github.com/ShizukuIchi/winXP) (idea)
+- [MacOS Web](https://macos.now.sh/) by [Puru Vijay](https://github.com/PuruVJ/macos-web) (idea)
+- [Ubuntu Web](https://vivek9patel.github.io/) by [Vivek Patel](https://github.com/vivek9patel/vivek9patel.github.io) (idea)
+- [Windows 11 web, but with no-code](https://windows11.webflow.io/) by [Manivannan](https://twitter.com/BeingMani97) (idea)
